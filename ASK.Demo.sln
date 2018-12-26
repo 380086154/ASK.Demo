@@ -27,6 +27,10 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ASK.Demo.Web(1)", "ASK.Demo
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASK.Demo.Console.Core", "ASK.Demo.Console.Core\ASK.Demo.Console.Core.csproj", "{16876BC9-5F2C-4B81-B3AE-27B7B94D3353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASK.Demo.Console", "ASK.Demo.Console\ASK.Demo.Console.csproj", "{00E65FF2-6604-4444-8CE9-F34E3C834D79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,14 @@ Global
 		{DEAEC372-17CB-4658-83F0-EC1A2F60E4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEAEC372-17CB-4658-83F0-EC1A2F60E4E6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{DEAEC372-17CB-4658-83F0-EC1A2F60E4E6}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{16876BC9-5F2C-4B81-B3AE-27B7B94D3353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16876BC9-5F2C-4B81-B3AE-27B7B94D3353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16876BC9-5F2C-4B81-B3AE-27B7B94D3353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16876BC9-5F2C-4B81-B3AE-27B7B94D3353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00E65FF2-6604-4444-8CE9-F34E3C834D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E65FF2-6604-4444-8CE9-F34E3C834D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E65FF2-6604-4444-8CE9-F34E3C834D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E65FF2-6604-4444-8CE9-F34E3C834D79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
